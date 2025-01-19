@@ -1,0 +1,6 @@
+Resolusi:
+- Belajar Git dan Github
+- Belajar Node JS
+- Belajar Express
+- Belajar Mongo DB
+- Belajar Laravel 11
