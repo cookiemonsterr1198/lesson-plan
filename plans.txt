@@ -1,7 +1,7 @@
 Resolusi:
 - Belajar Git dan Github
+- Belajar Laravel 11
 - Belajar Node JS
 - Belajar Express
 - Belajar Mongo DB
-- Belajar Laravel 11
 - Kolaborasi dengan lebih banyak expert
