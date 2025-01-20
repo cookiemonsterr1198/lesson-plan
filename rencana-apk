@@ -1,6 +1,8 @@
 APK yang akan dibuat (sebagai bahan pembelajaran):
-- Penentuan Penempatan STIS59
+- Aplikasi Penentuan Penempatan STIS '59
 - Entri data DDA2025
+- File saving, photo gallery, dsb. (baik open source maupun built from scratch) dengan berorientasi pada hasil
+
 Fitur:
 - Belajar frontend dan backend menggunakan plugin ant.design -> https://ant.design/components/table
 - Membuat loader
